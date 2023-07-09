@@ -1,0 +1,240 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather' ,serif;
+}
+.h01{
+    margin-top: 0;
+    padding-top: 10%;
+    
+    margin-left: auto;
+    margin-right: auto  ;
+    font-family:'Sacramento',cursive;
+    font-size: 4.62em;
+
+}
+.h02
+{
+    margin-top: 0px;
+    font-size: 2em;
+    
+}
+
+.top_cont
+{
+    margin-top: 0;
+    height: 150%;
+    background-color:rgba(14, 148, 141, 0.426);
+    
+    
+    
+}
+.cloud
+{
+    height: 130px;
+    width: 150px;
+    display: inline-block;
+    position: absolute;
+    
+    top: 0px;
+    right: 180px;
+}
+.cloud1
+{
+    height: 130px;
+    width: 150px;
+    display: inline-block;
+    position: absolute;
+    
+    left: 20%;
+    
+}
+.image_1
+{
+    margin-top: 10%;
+    
+    width: 70em;
+    height: 38em;
+}
+.se
+{
+    margin-top: 3%;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+.text1
+{
+    margin-top: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    text-align: left;
+    margin-left: auto;
+    line-height: 1.5;
+    margin-right: auto;
+    width: 42em;
+    padding-bottom: 30px;
+    
+}
+.text2
+{
+    line-height: 1.5;
+     width: 26em;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    bottom: 13em;
+    left:6em;
+    text-align: left;
+    margin-bottom: 0PX;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+hr{
+    border-style: dotted none none none;
+    width: 10%;
+    border-width: 5px;
+    border-radius: 0;
+    size: 2 ;
+    color: rgb(129, 140, 189);
+    margin-bottom: 0px;
+
+}
+.mid_cont
+{   
+   background-color:  rgba(14, 148, 141, 0.138);
+}
+.bottom_cont
+{
+    height: 5em;
+
+    background-color: rgba(23, 178, 170, 0.399);
+}
+span
+{
+    margin-top: 20em ;
+}
+.task
+{
+    position: relative;
+    width: 13em;
+    height: 13em;
+    right: 15em;
+    margin-bottom: 0;
+}
+.skillset
+{
+    margin-top: 3em;
+    margin-bottom: 0px;
+    height: 17em;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-top: 70em;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+h2{color: rgb(38, 55, 87);
+}
+h3
+{
+    margin-left: 2em;
+margin-top: 1.5em;
+}
+.education
+{
+
+    height: 12em;
+    width:12em;
+    margin-right: 18em;
+    position: relative;
+    right: auto;
+    left: auto;
+
+}
+.t3
+{
+    position: relative;
+    bottom: 10em;
+    right: 14em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+}
+.tab
+{
+    position: relative;
+    bottom: 10em;
+    left: 3.5em;
+    margin-bottom: 0em;
+}
+.oi
+
+{position: relative;
+    left: 2.3em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+margin-bottom: 0em;}
+.hl
+{
+    margin-top: -6em;
+    margin-bottom: 2.5em;
+}
+.oo
+{
+    width: 40em;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5em;
+    
+}
+.hl1
+{
+    margin-top: 2.5em;
+    margin-bottom: 3.5em;
+}
+.hl2
+{
+    margin-top: 2em;
+color: rgba(14, 148, 141, 0);
+
+
+    
+}
+.information
+{
+    color: rgb(38, 55, 87);
+    text-decoration: none;
+
+padding-top: 2em;
+position: relative;
+top: 1.5em;
+margin: 2em;
+font-family: Arial, Helvetica, sans-serif;
+}
+.copyright
+{
+    position: relative;
+
+    top: 1em;
+}
